@@ -15,4 +15,4 @@ const getFilterCategories = async(catName) => {
     return await response.json();
 }
 
-export default {getMealById, getAllCategories, getFilterCategories};
+export {getMealById, getAllCategories, getFilterCategories};
