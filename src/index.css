@@ -45,3 +45,9 @@ iframe {
   height: 350px;
 }
 
+.btn1 {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
