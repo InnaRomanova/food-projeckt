@@ -1,5 +1,6 @@
 {
-  "name": "food-project",
+  "name": "food-project",  
+  "homepage": "https://innaromanova.github.io/food-projeckt",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
